@@ -6,8 +6,8 @@
     --fundo-senha: #05bedf;
     --fundo-texto: #05fdfd81;
     --borda: #00ffea;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: Rubik Glitch, system-ui;
+    --roboto-mono: 'Roboto Mono', ;
 }
 
 * {
